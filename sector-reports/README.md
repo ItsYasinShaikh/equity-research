@@ -1,3 +1,16 @@
 # PSX Sector Reports
 
-Professional analytics reports on major sectors of PSX
+This directory contains research on major sectors of the Pakistan Stock Exchange (PSX).
+
+Planned Coverage
+
+- Banking
+- Fertilizer
+- Oil & Gas
+- Cement
+- Power
+- Textile
+- Technology
+- Pharmaceuticals
+
+Each report will analyze industry trends, opportunities, risks, and leading companies.
