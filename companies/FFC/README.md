@@ -29,13 +29,13 @@ _To be completed during the research process._
 
 ## Investment Thesis (Draft 1)
 
--Market-leading fertilizer producer with a trusted brand.
+- Market-leading fertilizer producer with a trusted brand.
 
--Extensive nationwide distribution creates a competitive advantage.
+- Extensive nationwide distribution creates a competitive advantage.
 
--Farmer support services strengthen customer loyalty.
+- Farmer support services strengthen customer loyalty.
 
--Diversified investments provide additional income streams.
+- Diversified investments provide additional income streams.
 
--Long operating history suggests business stability.
+- Long operating history suggests business stability.
 
