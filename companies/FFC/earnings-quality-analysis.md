@@ -77,7 +77,18 @@ FFC reported a standalone record net profit of **Rs 73.6 billion** for 2025, a 1
 10. Will the **Sona AgTech** initiatives provide measurable improvements in distribution efficiency and working capital cycles?
 
 ---
+## Earnings Quality Scorecard
 
+| Factor | Assessment | Analyst View |
+|---|---|---|
+| Revenue Quality | Good | Revenue base expanded due to merger integration, but future growth depends on fertilizer demand and pricing |
+| Profitability Quality | Good | Strong profitability maintained, although gross margins compressed |
+| Cash Conversion | Moderate | Operating cash flow declined due to working capital absorption |
+| Balance Sheet Strength | Strong | Large liquidity position and manageable leverage support resilience |
+| Dividend Sustainability | Good but Monitor | Strong earnings support dividends, but cash conversion requires improvement |
+| Business Moat | Strong | Market leadership, distribution network, and strategic investments provide competitive advantages |
+
+---
 ### **FINAL SECTION: INVESTMENT MEMO**
 
 **To:** Long-Term Dividend Portfolio Managers  
