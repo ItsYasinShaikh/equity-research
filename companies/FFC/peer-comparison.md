@@ -201,5 +201,7 @@ FFC relies more heavily on dividend income from subsidiaries than peers.
 
 ## Final Recommendation
 **For Income Investors:** FFC (Highest absolute DPS and positive growth).
+
 **For Dividend Stability:** FFC and EFERT (Both offer quarterly visibility).
+
 **For Long-Term Value:** FATIMA (Lower dividend today for potential massive asset growth tomorrow).
