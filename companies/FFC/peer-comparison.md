@@ -172,25 +172,31 @@ FFC relies more heavily on dividend income from subsidiaries than peers.
 | Dividend Growth |+6.14% |-30.2% |	-14.3% |
 
 Analyst Observations
-1. Fauji Fertilizer (FFC): The "Income King"
-FACT: FFC declared a record-high total dividend of Rs 37.00 per share for 2025, representing a 6% increase from the Rs 34.86 paid in 2024
-.
-INFERENCE: FFC’s dividend is the most "cash-backed" for long-term holders. Its 72% payout ratio is sustainable because it is supported by record Rs 22.4 billion in dividend inflows from its diversified energy and associate portfolio
-.
+#1. Fauji Fertilizer (FFC): The "Income King"
+
+FACT: FFC declared a record-high total dividend of Rs 37.00 per share for 2025, representing a 6% increase from the Rs 34.86 paid in 2024.
+
+INFERENCE: FFC’s dividend is the most "cash-backed" for long-term holders. Its 72% payout ratio is sustainable because it is supported by record Rs 22.4 billion in dividend inflows from its diversified energy and associate portfolio.
+
 OPINION: FFC remains the premier choice for Income Investors seeking steady growth and reliability.
-2. Engro Fertilizers (EFERT): The "Yield Play"
-FACT: EFERT’s dividend declared for the year 2025 totaled Rs 15.00 (composed of three interims and a proposed final)
-. This is a sharp decline from the Rs 21.50 declared for 2024
-.
-INFERENCE: The 112.1% payout ratio indicates that EFERT is distributing more than its consolidated net profit to shareholders
-.
+
+
+#2. Engro Fertilizers (EFERT): The "Yield Play"
+FACT: EFERT’s dividend declared for the year 2025 totaled Rs 15.00 (composed of three interims and a proposed final). This is a sharp decline from the Rs 21.50 declared for 2024.
+
+INFERENCE: The 112.1% payout ratio indicates that EFERT is distributing more than its consolidated net profit to shareholders.
+
 OPINION: While the nominal DPS fell, EFERT remains a "Yield Shield" for the Engro Group, though its ability to grow the dividend is currently constrained compared to FFC.
-3. Fatima Fertilizer (FATIMA): The "Compounding Play"
-FACT: FATIMA reduced its total payout to Rs 6.00 per share from Rs 7.00 in the prior year
-.
-INFERENCE: With a payout ratio of only ~30%, FATIMA is prioritizing capital retention. The 2025 report highlights massive diversification into Aviation, Mining, Real Estate, and Oil & Gas
-.
+
+
+#3. Fatima Fertilizer (FATIMA): The "Compounding Play"
+
+FACT: FATIMA reduced its total payout to Rs 6.00 per share from Rs 7.00 in the prior year.
+
+INFERENCE: With a payout ratio of only ~30%, FATIMA is prioritizing capital retention. The 2025 report highlights massive diversification into Aviation, Mining, Real Estate, and Oil & Gas.
+
 OPINION: FATIMA is the best company for Long-Term Compounding rather than immediate income, as management is reinvesting 70% of earnings into new growth frontiers.
+
 Final Recommendation
 For Income Investors: FFC (Highest absolute DPS and positive growth).
 For Dividend Stability: FFC and EFERT (Both offer quarterly visibility).
