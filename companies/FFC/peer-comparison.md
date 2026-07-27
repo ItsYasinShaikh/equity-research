@@ -70,7 +70,9 @@ Its combination of manufacturing scale and investment portfolio creates a wider 
 
 | Metric | FFC | EFERT | FATIMA |
 |---------|-----|--------|---------|
-| Revenue | | | |
+| Revenue |432,410 |	
+237,100 |	
+276,177 |
 | Gross Profit | | | |
 | Operating Profit | | | |
 | EBITDA | | | |
