@@ -66,96 +66,59 @@ Its combination of manufacturing scale and investment portfolio creates a wider 
 
 ---
 
-3. Financial Comparison (2025)
-(All figures in Rs million unless otherwise stated. FFC data is standalone; EFERT and FATIMA are consolidated as per report highlights.)
-Metric
-FFC (Standalone)
-EFERT (Consol.)
-FATIMA (Consol.)
-Revenue
-432,410
-237,130
-276,177
-Gross Profit
-130,611
-72,553
-94,424
-Operating Profit
-98,272
-47,725 (Calc.)
-76,281
-EBITDA
-132,574
-70,981
-88,273
-Net Profit
-73,564
-22,628
-42,059
-EPS (Rs)
-51.69
-16.94 (Calc.)
-20.03
-Total Assets
-437,485
-199,166
-360,895
-Equity
-135,584
-44,747
-169,865
-Debt
-79,895 (Calc.)
-105,558 (Calc.)
-75,378
-Operating Cash Flow
-36,971
-23,576
-27,933
-Free Cash Flow
-13,392 (Calc.)
-21,385 (Calc.)
-19,019 (Calc.)
-ROE
-54.26%
-50.60%
-24.76%
-ROA
-16.82%
-11.36%
-11.65%
-ROCE
-68.55%
-49.08%
-21.06%
-Gross Margin
-30.21%
-30.60%
-34.19%
-Operating Margin
-22.73%
-20.13% (Calc.)
-27.62%
-Net Margin
-17.01%
-9.54%
-15.23%
-Supporting Notes for the Table
-FFC Operating Profit: Standalone operating profit reached Rs 98.27 billion, driven by the full-year integration of ex-FFBL operations
-.
-EFERT EBITDA & Cash Flow: EFERT maintained strong cash management with an EBITDA of Rs 70.98 billion and operating cash flows of Rs 23.58 billion
-.
-FATIMA Profitability: FATIMA stands out with the highest Gross Margin (34.19%) among the trio, reflecting its unique product mix including Nitrophos and CAN
-.
-Debt Calculations:
-FFC: Total debt includes long-term (Rs 61.3bn) and short-term (Rs 18.6bn) borrowings.
-EFERT: Debt is calculated using the reported Debt to Assets ratio of 0.53
-.
-FATIMA: Total debt is explicitly reported in the consolidated financial notes
-.
-Free Cash Flow (Analyst Calc.): Calculated as Operating Cash Flow minus Capital Expenditure. FFC’s FCF was constrained by a record Rs 23.6 billion investment in Gas Pressure Enhancement Facilities (PEF)
-. EFERT and FATIMA had lower CAPEX relative to their asset bases in 2025
-.
+#3. Financial Comparison (2025)
+
+*All figures in Rs million unless otherwise stated. FFC data is **standalone**. EFERT and FATIMA data are **consolidated** based on their 2025 annual reports.*
+
+| Metric | FFC (Standalone) | EFERT (Consolidated) | FATIMA (Consolidated) |
+|:---|---:|---:|---:|
+| Revenue | 432,410 | 237,130 | 276,177 |
+| Gross Profit | 130,611 | 72,553 | 94,424 |
+| Operating Profit | 98,272 | 47,725 *(Calc.)* | 76,281 |
+| EBITDA | 132,574 | 70,981 | 88,273 |
+| Net Profit | 73,564 | 22,628 | 42,059 |
+| EPS (Rs) | 51.69 | 16.94 *(Calc.)* | 20.03 |
+| Total Assets | 437,485 | 199,166 | 360,895 |
+| Shareholders' Equity | 135,584 | 44,747 | 169,865 |
+| Total Debt | 79,895 *(Calc.)* | 105,558 *(Calc.)* | 75,378 |
+| Operating Cash Flow | 36,971 | 23,576 | 27,933 |
+| Free Cash Flow | 13,392 *(Calc.)* | 21,385 *(Calc.)* | 19,019 *(Calc.)* |
+| ROE | 54.26% | 50.60% | 24.76% |
+| ROA | 16.82% | 11.36% | 11.65% |
+| ROCE | 68.55% | 49.08% | 21.06% |
+| Gross Margin | 30.21% | 30.60% | 34.19% |
+| Operating Margin | 22.73% | 20.13% *(Calc.)* | 27.62% |
+| Net Margin | 17.01% | 9.54% | 15.23% |
+
+---
+
+# Supporting Notes
+
+## FFC
+- **Operating Profit:** Standalone operating profit reached **Rs 98.27 billion**, driven primarily by the full-year integration of ex-FFBL operations.
+- **Capital Expenditure:** Record CAPEX of approximately **Rs 23.6 billion** was invested in the Gas Pressure Enhancement Facility (PEF) and plant reliability projects.
+- **Free Cash Flow:** Calculated as **Operating Cash Flow − Capital Expenditure**, resulting in approximately **Rs 13.39 billion**.
+
+## EFERT
+- **EBITDA:** **Rs 70.98 billion**, reflecting continued operational strength.
+- **Operating Cash Flow:** **Rs 23.58 billion**, indicating solid cash generation despite industry headwinds.
+- **Total Debt:** Calculated using the company's reported debt-related disclosures.
+- **Free Cash Flow:** Analyst calculation using Operating Cash Flow less Capital Expenditure.
+
+## FATIMA
+- **Profitability:** Recorded the highest **Gross Margin (34.19%)** among the three companies, supported by its diversified product mix including Nitrophos and CAN.
+- **Total Debt:** Reported directly in the consolidated financial statements.
+- **Free Cash Flow:** Analyst calculation based on Operating Cash Flow minus Capital Expenditure.
+
+---
+
+# Analyst Takeaways
+
+- **Largest Business:** FFC generated the highest revenue (**Rs 432.4 billion**) and net profit (**Rs 73.6 billion**).
+- **Best Margins:** FATIMA delivered the strongest gross and operating margins, indicating superior manufacturing profitability.
+- **Highest Returns:** FFC achieved the highest ROE (**54.26%**) and ROCE (**68.55%**), demonstrating exceptional shareholder returns.
+- **Cash Generation:** EFERT produced the highest estimated Free Cash Flow relative to its size, while FFC's Free Cash Flow was reduced by heavy strategic CAPEX.
+- **Financial Position:** FFC remains the largest and most diversified fertilizer company, EFERT maintains strong operating efficiency, and FATIMA stands out for margin quality.
 
 # 4. Earnings Quality Comparison
 
