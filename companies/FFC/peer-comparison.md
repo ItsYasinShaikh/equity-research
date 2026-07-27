@@ -175,11 +175,11 @@ FFC relies more heavily on dividend income from subsidiaries than peers.
 
 ## 1. Fauji Fertilizer (FFC): The "Income King"
 
-FACT: FFC declared a record-high total dividend of Rs 37.00 per share for 2025, representing a 6% increase from the Rs 34.86 paid in 2024.
+### FACT: FFC declared a record-high total dividend of Rs 37.00 per share for 2025, representing a 6% increase from the Rs 34.86 paid in 2024.
 
-INFERENCE: FFC’s dividend is the most "cash-backed" for long-term holders. Its 72% payout ratio is sustainable because it is supported by record Rs 22.4 billion in dividend inflows from its diversified energy and associate portfolio.
+### INFERENCE: FFC’s dividend is the most "cash-backed" for long-term holders. Its 72% payout ratio is sustainable because it is supported by record Rs 22.4 billion in dividend inflows from its diversified energy and associate portfolio.
 
-OPINION: FFC remains the premier choice for Income Investors seeking steady growth and reliability.
+### OPINION: FFC remains the premier choice for Income Investors seeking steady growth and reliability.
 
 
 ## 2. Engro Fertilizers (EFERT): The "Yield Play"
