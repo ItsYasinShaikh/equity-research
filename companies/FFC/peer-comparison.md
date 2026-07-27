@@ -168,8 +168,7 @@ FFC relies more heavily on dividend income from subsidiaries than peers.
 |---------|-----|--------|---------|
 | DPS |37.00 |15.00 |6.00 |
 | Payout Ratio |71.58% |112.1%|~30%  |
-| Dividend Stability |	
-High. Consistent quarterly interims and top PSX ranking since 1994 |High. Established quarterly distribution policy |Moderate. Lower payout priority due to aggressive expansion |
+| Dividend Stability |High. Consistent quarterly interims and top PSX ranking since 1994 |High. Established quarterly distribution policy |Moderate. Lower payout priority due to aggressive expansion |
 | Dividend Growth |+6.14% |-30.2% |	-14.3% |
 
 Analyst Observations
